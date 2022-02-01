@@ -4,6 +4,6 @@ def menor(a, b):
     else:
         return b
 
-def captura(a, b):
+def captura():
     a = int(input())
     return int(a)
